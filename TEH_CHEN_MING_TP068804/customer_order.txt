@@ -1,0 +1,3 @@
+cm777|food can|9|RM89.91
+jeff|noodle|10|RM40.00
+cm888|rice|7|RM699.93
